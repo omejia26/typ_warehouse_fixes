@@ -13,7 +13,7 @@
 		'stock',
 	],
 	'data': [
-		'stock_move.xml',
+		'views/stock_move.xml',
 	],
 	'installable': True
 }
